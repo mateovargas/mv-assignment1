@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.tile-container {
+  width: auto;
+  height: auto;
+}
+
+.tile-list-item{
+  width: 180px !important;
+  height: 170px !important; 
+  display: inline-table;
+  margin: 10px
+}
+
+.user-info{
+  width: auto;
+  height: auto;
+  font-size: small;
+}
+
+.list-group{
+  display: block;
+}
